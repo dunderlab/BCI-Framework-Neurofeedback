@@ -1,0 +1,13 @@
+cycler
+matplotlib
+kafka_python
+tornado
+scipy
+numpy
+mne
+psutil
+simple_pid
+figurestream
+gcpds
+PySide2
+radiant
