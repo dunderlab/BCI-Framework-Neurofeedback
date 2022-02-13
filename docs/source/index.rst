@@ -2,13 +2,12 @@
 .. include:: notebooks/readme.rst
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :name: mastertoc
 
    notebooks/00-bci_framework
    notebooks/01-installation
-   notebooks/02-neuropathic_pain
-   notebooks/03-visual_working_memory
+   notebooks/03-visuospatial_working_memory
 
 
 .. only:: html

@@ -12,6 +12,4 @@ Subpackages
 .. toctree::
 
    extensions.Neuropathic_pain_Neurofeedback
-   extensions.Visual_working_memory
    extensions.Visual_working_memory_Generator
-   extensions.Visual_working_memory_Neurofeedback

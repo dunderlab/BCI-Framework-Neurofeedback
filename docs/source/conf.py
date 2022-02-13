@@ -164,6 +164,7 @@ latex_elements = {
 
     # 'babel': '\\usepackage[shorthands=off]{babel}',
 
+
 }
 
 # Grouping the document tree into LaTeX files. List of tuples
@@ -322,7 +323,7 @@ with open('index.rst', 'w') as file:
 .. include:: {notebooks_dir}/readme.rst
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :name: mastertoc
 
    {notebooks}
