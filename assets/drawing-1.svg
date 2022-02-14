@@ -26,9 +26,9 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="0.83480217"
-     inkscape:cx="675.01022"
-     inkscape:cy="430.64095"
+     inkscape:zoom="0.5"
+     inkscape:cx="56"
+     inkscape:cy="291"
      inkscape:window-width="1920"
      inkscape:window-height="1006"
      inkscape:window-x="0"
@@ -55,6 +55,22 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
+       id="linearGradient863">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop857" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.5"
+         id="stop859" />
+      <stop
+         style="stop-color:#00d400;stop-opacity:1"
+         offset="1"
+         id="stop861" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
        id="linearGradient1244">
       <stop
          style="stop-color:#ff0000;stop-opacity:1;"
@@ -79,6 +95,16 @@
        y2="111.125"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1,0,0,0.49999985,0,-23.505089)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient863"
+       id="linearGradient833"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.49999985,0,8.4722353)"
+       x1="5.2916665"
+       y1="111.125"
+       x2="201.08333"
+       y2="111.125" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -93,6 +119,17 @@
        y="22.79698"
        ry="1.0392563e-06"
        inkscape:export-filename="/home/yeison/Development/BCI-Framework/bci-framework/bci_framework/default_extensions/Visual_working_memory_Meurofeedback/gradient1.png"
+       inkscape:export-xdpi="259.45947"
+       inkscape:export-ydpi="259.45947" />
+    <rect
+       style="fill:url(#linearGradient833);fill-opacity:1;stroke-width:0.0291208"
+       id="rect831"
+       width="195.79201"
+       height="18.520826"
+       x="5.2916665"
+       y="54.774303"
+       ry="1.0392563e-06"
+       inkscape:export-filename="/home/yeison/Development/DunderLab/Neurofeedback/extensions/Neuropathic_pain_Neurofeedback/gradient2.png"
        inkscape:export-xdpi="259.45947"
        inkscape:export-ydpi="259.45947" />
   </g>

@@ -23,9 +23,9 @@ sys.path.insert(0, os.path.abspath('../..'))
 # -- Project information -----------------------------------------------------
 
 project = 'BCI Framework - Neurofeedback Extensions'
-copyright = '2021, DunderLab SAS'
-# copyright = '2022, DunderLab SAS'
+copyright = '2022, DunderLab SAS'
 author = 'DunderLab SAS'
+today_fmt = 'Nov, 2021'
 
 
 # -- General configuration ---------------------------------------------------
